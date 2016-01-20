@@ -2,4 +2,6 @@
 
 Este repositório contém o código fonte dos exercicios propostos durante o curso
 
-Espero contribuir para seu estudo
+Espero que com esse repositório eu possa aprender mais e contribuir com seu estudo.
+
+Sucesso!
